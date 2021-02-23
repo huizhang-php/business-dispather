@@ -18,5 +18,4 @@ Dispatcher::getInstance()
     ->setConfig($config)
     ->dispatch()
     ->createTask();
-    
-    ```
+```
