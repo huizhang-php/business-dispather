@@ -1,0 +1,15 @@
+{
+    "name": "guoyuzhao/factory",
+    "authors": [
+        {
+            "name": "huizhang001",
+            "email": "2788828128@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Huizhang\\Business\\": "Business/"
+        }
+    }
+}
